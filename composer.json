@@ -1,0 +1,15 @@
+{
+    "name": "soldatov/stand-phpspreadsheet",
+    "description": "'Hello world' for library phpoffice/phpspreadsheet.",
+    "type": "project",
+    "license": "unlicense",
+    "authors": [
+        {
+            "name": "Anatoly Soldatov",
+            "email": "soldatov.anatoly@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.15"
+    }
+}
